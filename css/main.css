@@ -1,0 +1,8 @@
+.box{
+  border: 2px;
+  background-image: url(../images/images\ \(1\).jpg);
+  /* background-repeat: no-repeat; */
+  /* background-position:left; */
+  background-size: cover;
+  background-attachment: fixed;
+}
